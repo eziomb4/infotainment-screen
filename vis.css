@@ -1,0 +1,93 @@
+#container{
+    background-color: black;
+    height: 700px;
+    /* background-image: url('back2.jpg'); */
+}
+#CarName{
+    color: white;
+    text-align: center;
+    border: 1px solid grey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+#nav a{
+    font-size: 25px;
+    padding: 9px;
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.Home{
+    color: rgb(249, 236, 236);
+    position: relative;
+    border-left: 3px solid red;
+    height: 30px;
+    top: 30px;
+    left: 20px;
+}
+.Navigation{
+    color: whitesmoke; 
+    top: 40px;
+    left: 20px;
+    border-left: 3px solid red;
+    height: 30px;
+}
+.Connect{
+    color: whitesmoke;
+    top: 50px;
+    left: 20px;
+    border-left: 3px solid red;
+    height: 30px;
+}
+.More{
+    color: whitesmoke; 
+    top: 60px;
+    left: 20px;  
+    border-left: 3px solid red;
+    height: 30px;  
+}
+.mapbutton{
+    color: white;
+    padding: 15px 32px;
+    border: none;
+    background-color: greenyellow;
+    /* display: inline-block; */
+    text-decoration: none;
+    position: relative;
+    top: -150px;
+    left: 13px;
+    cursor: pointer;
+}
+.youtube{
+    background-color: olive;
+    background-image: url('image.jpg');
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border : none;
+    padding: 15px 32px;
+    /* display: inline-block; */
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    top: -200px;
+    left: -89px;
+}
+.Frame{
+    height: 400px;
+    width: 800px;
+    background-color: transparent;
+    left: 50px;
+    bottom: 175px;
+    position: relative;
+    border: 0.5px solid #e6dddd;
+  
+    
+}
+.back{
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
