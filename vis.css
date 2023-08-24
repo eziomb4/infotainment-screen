@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Sedgwick+Ave+Display&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.MainContainer{
+    width: 800px;
+    height: 480px;
+    border: 3px solid rgb(153, 31, 31);
+}
+#container{
+    width: 800px;
+    height: 480px;
+    background-color: #232327;
+    position: relative;  
+}
+#CarName{
+    color: white;
+    position: relative;
+    top:-21px;
+    text-align: center;
+    font-family: Orbitron;
+    font-weight: bold;
+}
+.HeadBorder{
+    border-top: 2px solid red;
+    top: 70px;
+    position: relative;
+}
+#nav a{
+    font-family: Ubuntu;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 9px;
+    border-left: 3px solid red;
+    text-decoration: none;
+    display: inline-block;
+}
+.Home{
+    color: rgb(249, 236, 236);
+    position: relative;
+    /* border-left: 3px solid red; */
+    height: 36px;
+    top: 30px;
+    left: 20px;
+}
+.Navigation{
+    color: whitesmoke; 
+    position: relative;
+    top: 40px;
+    left: 20px;
+    /* border-left: 3px solid red; */
+    height: 36px;
+}
+.Connect{
+    color: whitesmoke;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    /* border-left: 3px solid red; */
+    height: 36px;
+}
+.More{
+    color: whitesmoke; 
+    position: relative;
+    top: 60px;
+    left: 20px;  
+    /* border-left: 3px solid red; */
+    height: 36px;  
+}
+/* map button on secodn page */
+/* .mapbutton{
+    color: white;
+    padding: 15px 32px;
+    border: none;
+    background-color: greenyellow;
+    text-decoration: none;
+    position: relative;
+    top: -150px;
+    left: 13px;
+    cursor: pointer;
+}
+/* Youtube on Second Page  */
+/* .youtube{
+    background-color: red;
+    
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border : none;
+    padding: 15px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    position: inherit;
+    top: -209px;
+    left: -89px;
+} */
+/* Frame on second page */
+/* .Frame{  
+    background-color: transparent;
+    left: 50px;
+    bottom: 175px;
+    position: relative;
+    border: 0.5px solid #e6dddd;
+} */
+.FootBorder{
+    border-bottom: 2px red solid;
+    position: relative;
+    bottom: 70px;
+}
+.butcont{
+    position: relative;
+    left: 240px;
+}
+.but-1{
+    position: inherit;
+    top: 36px;
+    left: 0px;
+    padding: 14px 15px;  
+}
+.but-2{
+    position: inherit;
+    top: 36px;
+    left: 90px;
+    padding: 14px 15px;  
+}
+.but-3{
+    position: inherit;
+    top: 36px;
+    left: 180px;
+    padding: 14px 15px;  
+}
