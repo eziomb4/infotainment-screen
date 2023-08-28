@@ -116,7 +116,7 @@
     top: 36px;
     left: 0px;
     padding: 20px 16px;  
-    background-image: url(Button/backward.png);
+    background-image: url(Button/32back.png);
     background-repeat: none;
     background-position: 3px;
     cursor: pointer;
@@ -141,7 +141,7 @@
     top: 36px;
     left: 180px;
     padding: 20px 16px; 
-    background-image: url(Button/forward.png);
+    background-image: url(Button/32for.png);
     background-repeat: none;
     background-position-x: 1px;
     background-position-y: 4px;
