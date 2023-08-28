@@ -127,13 +127,12 @@
 .but-2{
     background-color: transparent;
     border: none;
-    position: inherit;
+    position: relative;
     top: 36px;
     left: 90px;
-    padding: 17px 22px; 
-    background-image: url(Button/home.png);
+    padding: 24px 20px; 
+    background-image: url(Button/hometr.png);
     background-repeat: none;
-    background-position: -9px;
     cursor: pointer;
 }
 /* Forward Button */
