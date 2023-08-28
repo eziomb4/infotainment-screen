@@ -101,11 +101,11 @@
 .FootBorder{
     border-bottom: 2px red solid;
     position: relative;
-    bottom: 80px;
+    bottom: 95px;
 }
 .butcont{
     position: inherit;
-    bottom: -5px;
+    bottom: -15px;
     left: 240px;
 }
 /* Backward Button */
@@ -115,7 +115,7 @@
     position: inherit;
     top: 36px;
     left: 0px;
-    padding: 17px 15px;  
+    padding: 20px 16px;  
     background-image: url(Button/backward.png);
     background-repeat: none;
     background-position: 3px;
@@ -140,9 +140,10 @@
     position: inherit;
     top: 36px;
     left: 180px;
-    padding: 17px 15px; 
+    padding: 20px 16px; 
     background-image: url(Button/forward.png);
     background-repeat: none;
-    background-position: -7px;
+    background-position-x: 1px;
+    background-position-y: 4px;
     cursor: pointer;
 }
